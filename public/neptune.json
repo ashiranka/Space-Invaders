@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Neptune has __________ number of moons.",
+    "options": [
+      "15",
+      "14",
+      "11"
+    ],
+    "correct": "14"
+  },
+  {
+    "question": "Neptune was first observed by  __________.",
+    "options": [
+      "William Hershel",
+      "Urbain Le Verrier & Johann Galle",
+      "Galileo Galilei"
+    ],
+    "correct": "Urbain Le Verrier & Johann Galle"
+  },
+  {
+    "question": "Which of the following is one of Neptune’s moons?",
+    "options": [
+      "Ariel",
+      "Triton",
+      "Titan"
+    ],
+    "correct": "Triton"
+  },
+  {
+    "question": "What is the temperature on the surface of Neptune?",
+    "options": [
+      "-218C",
+      "-214C",
+      "-213C"
+    ],
+    "correct": "-214C"
+  },
+  {
+    "question": "The number of spacecrafts that have visited Neptune is _________.",
+    "options": [
+      "3",
+      "1",
+      "2"
+    ],
+    "correct": "1"
+  },
+  {
+    "question": "What is the approximate value of polar diameter of Neptune?",
+    "options": [
+      "48,000-49,000 km",
+      "45,000-46,000 km",
+      "40,000-41,000 km"
+    ],
+    "correct": "48,000-49,000 km"
+  },
+  {
+    "question": "Neptune orbits the Sun once every _______ Earth years.",
+    "options": [
+      "145.9",
+      "150.2",
+      "164.8"
+    ],
+    "correct": "164.8"
+  },
+  {
+    "question": "When was Neptune discovered?",
+    "options": [
+      "June 16th, 1846",
+      "September 23rd, 1846",
+      "May 19th, 1846"
+    ],
+    "correct": "September 23rd, 1846"
+  },
+  {
+    "question": "What is the mass of Neptune?",
+    "options": [
+      "10^26 kg",
+      "10^25 kg",
+      "10^24 kg"
+    ],
+    "correct": "10^26 kg"
+  },
+  {
+    "question": "Neptune has _________ rings.",
+    "options": [
+      "5",
+      "8",
+      "12"
+    ],
+    "correct": "5"
+  },
+  {
+    "question": "The distance of the orbit of Neptune is approximately _____________.",
+    "options": [
+      "4,590,000,000 km",
+      "4,780,000,000 km",
+      "4,498,000,000 km"
+    ],
+    "correct": "4,498,000,000 km"
+  },
+  {
+    "question": "Neptune takes ________ hours to complete one rotation on its axis.",
+    "options": [
+      "15",
+      "19",
+      "18"
+    ],
+    "correct": "18"
+  },
+  {
+    "question": "The inner core of Neptune is made up of __________.",
+    "options": [
+      "Rock",
+      "Magma",
+      "Metal"
+    ],
+    "correct": "Rock"
+  },
+  {
+    "question": "The atmosphere of Neptune is made up of _____________.",
+    "options": [
+      "Hydrogen, helium and argon",
+      "Methane, helium and argon",
+      "Hydrogen, helium and methane"
+    ],
+    "correct": "Hydrogen, helium and methane"
+  },
+  {
+    "question": "Neptune has a mass __________ that of Uranus.",
+    "options": [
+      "Greater than",
+      "Lesser than",
+      "Equal to"
+    ],
+    "correct": "Greater than"
+  }
+]

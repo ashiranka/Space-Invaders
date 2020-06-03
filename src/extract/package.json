@@ -1,0 +1,10 @@
+{
+	"name": "extract",
+	"version": "1.0.0",
+	"main": "extract.js",
+	"license": "MIT",
+	"dependencies": {
+		"csvtojson": "^1.1.9",
+		"lodash": "^4.17.10"
+	}
+}

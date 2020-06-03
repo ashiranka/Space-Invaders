@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Which is the closest planet to the SUN?",
+    "options": [
+      "jupiter",
+      "mercury",
+      "mars"
+    ],
+    "correct": "mercury"
+  },
+  {
+    "question": "For every 2 orbit of the sun, mercury completes___________rotation about its axis.",
+    "options": [
+      "5",
+      "6",
+      "3"
+    ],
+    "correct": "3"
+  },
+  {
+    "question": "In a century how many times the mercury can be observed from the earth?",
+    "options": [
+      "13",
+      "10",
+      "11"
+    ],
+    "correct": "13"
+  },
+  {
+    "question": "Diameter of the planet is?",
+    "options": [
+      "<2000",
+      "<3500",
+      "<5000"
+    ],
+    "correct": "<5000"
+  },
+  {
+    "question": "Orbit period according to earth days is?",
+    "options": [
+      "90",
+      "88",
+      "87"
+    ],
+    "correct": "88"
+  },
+  {
+    "question": "Your weight on mercury will be ______percent of yours on earth.",
+    "options": [
+      "38",
+      "40",
+      "37"
+    ],
+    "correct": "38"
+  },
+  {
+    "question": "A day on mercury lasts ______  earth days.",
+    "options": [
+      "166",
+      "176",
+      "186"
+    ],
+    "correct": "176"
+  },
+  {
+    "question": "Distance from sun is about _________km.",
+    "options": [
+      "35-40 million",
+      "46-70 million",
+      "84-93 million"
+    ],
+    "correct": "46-70 million"
+  },
+  {
+    "question": "Mercury is the ____ densest planet.",
+    "options": [
+      "1",
+      "3",
+      "2"
+    ],
+    "correct": "2"
+  },
+  {
+    "question": "Mercury has ______ core.",
+    "options": [
+      "molten",
+      "solid",
+      "gas"
+    ],
+    "correct": "molten"
+  },
+  {
+    "question": "Mercury has wrinkles calles as _______.",
+    "options": [
+      "mobate scarps",
+      "lobate scarps",
+      "cobate scarps"
+    ],
+    "correct": "lobate scarps"
+  },
+  {
+    "question": "Mercury is the second ______ planet.",
+    "options": [
+      "coldest",
+      "hottest",
+      "humid"
+    ],
+    "correct": "hottest"
+  },
+  {
+    "question": "How many spacecrafts have visited mercury?",
+    "options": [
+      "3",
+      "4",
+      "2"
+    ],
+    "correct": "2"
+  },
+  {
+    "question": "Mercury is named after the _________ messanger.",
+    "options": [
+      "roman",
+      "greek",
+      "asian"
+    ],
+    "correct": "roman"
+  },
+  {
+    "question": "Mercury is mainly composed of ___________ and ________.",
+    "options": [
+      "sand and stones.",
+      "rocks and mud.",
+      "heavy metal and rocks."
+    ],
+    "correct": "heavy metal and rocks."
+  }
+]

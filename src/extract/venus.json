@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Venus is the _________ planet from the sun.",
+    "options": [
+      "third",
+      "second",
+      "fourth"
+    ],
+    "correct": "second"
+  },
+  {
+    "question": "It is named after roman godess of ____ and _______.",
+    "options": [
+      "love and peace.",
+      "care and beauty.",
+      "love and beauty."
+    ],
+    "correct": "love and beauty."
+  },
+  {
+    "question": "After moon venus is the second _________ object on the dark sky.",
+    "options": [
+      "brightest",
+      "shiniest",
+      "spotted"
+    ],
+    "correct": "brightest"
+  },
+  {
+    "question": "Venus is reffered as the earths __________ planet.",
+    "options": [
+      "mother",
+      "brother",
+      "sister"
+    ],
+    "correct": "sister"
+  },
+  {
+    "question": "The surface of the planet has the clouds made of _________.",
+    "options": [
+      "acetic acid",
+      "chloric acid",
+      "sulphuric acid"
+    ],
+    "correct": "sulphuric acid"
+  },
+  {
+    "question": "What is the diameter of the planet?",
+    "options": [
+      "<10000",
+      "<6000",
+      "<13000"
+    ],
+    "correct": "<13000"
+  },
+  {
+    "question": "The orbit period is ________.",
+    "options": [
+      "225",
+      "255",
+      "245"
+    ],
+    "correct": "225"
+  },
+  {
+    "question": "Surface temperature is about _____.",
+    "options": [
+      "123C",
+      "324C",
+      "462C"
+    ],
+    "correct": "462C"
+  },
+  {
+    "question": "Venus is as big as which planet?",
+    "options": [
+      "mercury",
+      "earth",
+      "jupiter"
+    ],
+    "correct": "earth"
+  },
+  {
+    "question": "How many earth days is equal to a day in venus?",
+    "options": [
+      "114",
+      "117",
+      "115"
+    ],
+    "correct": "117"
+  },
+  {
+    "question": "A year on venus is equal to _______ earth days.",
+    "options": [
+      "223",
+      "224",
+      "225"
+    ],
+    "correct": "225"
+  },
+  {
+    "question": "A _________ on venus can last longer than a year.",
+    "options": [
+      "hour",
+      "day",
+      "month"
+    ],
+    "correct": "day"
+  },
+  {
+    "question": "The atmosperic pressure on venus is ______times greater than earth.",
+    "options": [
+      "92",
+      "95",
+      "99"
+    ],
+    "correct": "92"
+  },
+  {
+    "question": "Venus is also know as the ____________ and ___________ star.",
+    "options": [
+      "morning and afternoon",
+      "afternoon and evening",
+      "morning and evening"
+    ],
+    "correct": "morning and evening"
+  },
+  {
+    "question": "Who sent the first mission to venus?",
+    "options": [
+      "german",
+      "russian",
+      "persian"
+    ],
+    "correct": "russian"
+  }
+]

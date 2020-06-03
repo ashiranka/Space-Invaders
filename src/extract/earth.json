@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Earth is the _______ planet from the sun.",
+    "options": [
+      "third",
+      "fourth",
+      "fifth"
+    ],
+    "correct": "third"
+  },
+  {
+    "question": "Earth was formed ____________ billion years ago.",
+    "options": [
+      "4.52",
+      "4.53",
+      "4.54"
+    ],
+    "correct": "4.54"
+  },
+  {
+    "question": "Earth is the only planet that supports ________.",
+    "options": [
+      "life",
+      "atmosphere",
+      "helium"
+    ],
+    "correct": "life"
+  },
+  {
+    "question": "Equitorial diameter of earth is ______.",
+    "options": [
+      "<5000",
+      "<10000",
+      "<13000"
+    ],
+    "correct": "<13000"
+  },
+  {
+    "question": "Number of moons of the planet is ?",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": "1"
+  },
+  {
+    "question": "Orbit period of earth is __________.",
+    "options": [
+      "365",
+      "365.24",
+      "366"
+    ],
+    "correct": "365.24"
+  },
+  {
+    "question": "Surface temperature is about _________.",
+    "options": [
+      "-82 to 58 c",
+      "-88 to 58 c",
+      "-88 to 54 c"
+    ],
+    "correct": "-88 to 58 c"
+  },
+  {
+    "question": "The earths rotation is slowing __________ millionseconds per hundred years.",
+    "options": [
+      "11",
+      "15",
+      "17"
+    ],
+    "correct": "17"
+  },
+  {
+    "question": "Earth has a powerful ________ field.",
+    "options": [
+      "magnetic",
+      "electro magnetic",
+      "electric"
+    ],
+    "correct": "magnetic"
+  },
+  {
+    "question": "70% of earths surface is __________.",
+    "options": [
+      "plants",
+      "water",
+      "air"
+    ],
+    "correct": "water"
+  },
+  {
+    "question": "_______ is the earths only natural satellite.",
+    "options": [
+      "moon",
+      "sputnik",
+      "molniva"
+    ],
+    "correct": "moon"
+  },
+  {
+    "question": "Earth is mostly made of __________,_________ and __________-.",
+    "options": [
+      "iron,carbon and oxygen.",
+      "iron, oxygen and silicon",
+      "iron, carbon and helium"
+    ],
+    "correct": "iron, oxygen and silicon"
+  },
+  {
+    "question": "The actual shape of the earth is _________-.",
+    "options": [
+      "spear",
+      "oval",
+      "geoid"
+    ],
+    "correct": "geoid"
+  },
+  {
+    "question": "Earth tilts roughly at ___ degree.",
+    "options": [
+      "66",
+      "64",
+      "67"
+    ],
+    "correct": "66"
+  },
+  {
+    "question": "How much percent of water is fresh on the surface of earth?",
+    "options": [
+      "2",
+      "4",
+      "3"
+    ],
+    "correct": "3"
+  }
+]

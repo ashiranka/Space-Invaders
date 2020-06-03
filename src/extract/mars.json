@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Mars is the _________ planet from the sun.",
+    "options": [
+      "fifth",
+      "fouth",
+      "sixth"
+    ],
+    "correct": "fouth"
+  },
+  {
+    "question": "It is the second _________planet in the solar system.",
+    "options": [
+      "smallest",
+      "hottest",
+      "coldest"
+    ],
+    "correct": "smallest"
+  },
+  {
+    "question": "Mars is named after the roman god of __________-.",
+    "options": [
+      "care",
+      "love",
+      "war"
+    ],
+    "correct": "war"
+  },
+  {
+    "question": "Mars is called as the red planned due to its _____________.",
+    "options": [
+      "reddish appearance",
+      "hotness",
+      "red mud"
+    ],
+    "correct": "reddish appearance"
+  },
+  {
+    "question": "Mars atmospere is composed of _______.",
+    "options": [
+      "helium",
+      "carbon dioxide",
+      "silicon"
+    ],
+    "correct": "carbon dioxide"
+  },
+  {
+    "question": "Equitorial diameter is about ____.",
+    "options": [
+      "<3000",
+      "<5000",
+      "<7000"
+    ],
+    "correct": "<7000"
+  },
+  {
+    "question": "Mars has ___ number of moons.",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": "2"
+  },
+  {
+    "question": "Orbit period is about ____.",
+    "options": [
+      "674",
+      "687",
+      "678"
+    ],
+    "correct": "687"
+  },
+  {
+    "question": "Surface temperature is about ___.",
+    "options": [
+      "-153 to 30 c",
+      "-153 to 20 c",
+      "-153 to 10 c"
+    ],
+    "correct": ""
+  },
+  {
+    "question": "Mars and ________ has  approximately the same landmass.",
+    "options": [
+      "mercury",
+      "venus",
+      "earth"
+    ],
+    "correct": "earth"
+  },
+  {
+    "question": "Mars is home to the tallest mountain in the solar system calles as ____________-.",
+    "options": [
+      "olympus mons",
+      "olampic mand",
+      "olampad mons"
+    ],
+    "correct": "olympus mons"
+  },
+  {
+    "question": "How many missions to mars have been successful?",
+    "options": [
+      "11",
+      "15",
+      "18"
+    ],
+    "correct": "18"
+  },
+  {
+    "question": "On mars the moon of earth appears _________ the size from earth.",
+    "options": [
+      "half",
+      "same",
+      "three-fourth"
+    ],
+    "correct": "half"
+  },
+  {
+    "question": "Mars has the largest _________ storm in the solar system.",
+    "options": [
+      "snow",
+      "dust",
+      "hail"
+    ],
+    "correct": "dust"
+  },
+  {
+    "question": "There are signs of _________ on mars.",
+    "options": [
+      "life",
+      "plants",
+      "liquid"
+    ],
+    "correct": "liquid"
+  }
+]

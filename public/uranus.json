@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Uranus has __________ number of moons.",
+    "options": [
+      "27",
+      "25",
+      "20"
+    ],
+    "correct": "27"
+  },
+  {
+    "question": "Uranus was first observed by  __________.",
+    "options": [
+      "William Hershel",
+      "Copernicus",
+      "Galileo Galilei"
+    ],
+    "correct": "William Hershel"
+  },
+  {
+    "question": "Which of the following is not one of Uranus’ moons?",
+    "options": [
+      "Ariel",
+      "Triton",
+      "Titania"
+    ],
+    "correct": "Triton"
+  },
+  {
+    "question": "What is the temperature on the surface of Uranus?",
+    "options": [
+      "-210C",
+      "-219C",
+      "-216C"
+    ],
+    "correct": "-216C"
+  },
+  {
+    "question": "Uranus has an axial tilt of _________ degrees.",
+    "options": [
+      "95",
+      "98",
+      "96"
+    ],
+    "correct": "98"
+  },
+  {
+    "question": "The number of spacecrafts that have visited Uranus is _________.",
+    "options": [
+      "3",
+      "1",
+      "2"
+    ],
+    "correct": "1"
+  },
+  {
+    "question": "What is the approximate value of polar diameter of Uranus?",
+    "options": [
+      "49,000-50,000 km",
+      "59,000-60,000 km",
+      "39,000-40,000 km"
+    ],
+    "correct": "49,000-50,000 km"
+  },
+  {
+    "question": "Uranus turns on its axis once every _________ hours and ________ minutes.",
+    "options": [
+      "17&14",
+      "13&12",
+      "18&11"
+    ],
+    "correct": "17&14"
+  },
+  {
+    "question": "Uranus orbits the Sun once every _______ Earth years.",
+    "options": [
+      "80",
+      "76",
+      "84"
+    ],
+    "correct": "84"
+  },
+  {
+    "question": "When was Uranus discovered?",
+    "options": [
+      "February 16th, 1781",
+      "December 18th, 1781",
+      "March 13th, 1781"
+    ],
+    "correct": "March 13th, 1781"
+  },
+  {
+    "question": "What is the mass of Uranus?",
+    "options": [
+      "10^26 kg",
+      "10^25 kg",
+      "10^24 kg"
+    ],
+    "correct": "10^25 kg"
+  },
+  {
+    "question": "Uranus has _________ rings.",
+    "options": [
+      "13",
+      "23",
+      "33"
+    ],
+    "correct": "13"
+  },
+  {
+    "question": "Uranus is often referred to as _________.",
+    "options": [
+      "Gas giant",
+      "Ice giant",
+      "Red giant"
+    ],
+    "correct": "Ice giant"
+  },
+  {
+    "question": "The distance of the orbit of Uranus is approximately _____________.",
+    "options": [
+      "2,870,000,000 km",
+      "2,780,000,000 km",
+      "2,540,000,000 km"
+    ],
+    "correct": "2,870,000,000 km"
+  },
+  {
+    "question": "The name of the spacecraft sent to Uranus is __________.",
+    "options": [
+      "Stardust",
+      "Orion",
+      "Voyager"
+    ],
+    "correct": "Voyager"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Saturn has __________ number of moons.",
+    "options": [
+      "64",
+      "62",
+      "69"
+    ],
+    "correct": "62"
+  },
+  {
+    "question": "Saturn was first observed by  __________.",
+    "options": [
+      "Copernicus",
+      "William Hershel",
+      "Galileo Galilei"
+    ],
+    "correct": "Galileo Galilei"
+  },
+  {
+    "question": "Which of the following is not one of Saturn’s moons?",
+    "options": [
+      "Rhea",
+      "Ganymede",
+      "Titan"
+    ],
+    "correct": "Ganymede"
+  },
+  {
+    "question": "What is the temperature on the surface of Saturn?",
+    "options": [
+      "-178C",
+      "-158C",
+      "-128C"
+    ],
+    "correct": "-178C"
+  },
+  {
+    "question": "The ring system of Saturn stretches to about _________ km from the planet.",
+    "options": [
+      "100800",
+      "120700",
+      "110500"
+    ],
+    "correct": "120700"
+  },
+  {
+    "question": "Saturn was first recorded by ___________.",
+    "options": [
+      "Assyrians",
+      "William Hershel",
+      "Babylonian astronomers"
+    ],
+    "correct": "Assyrians"
+  },
+  {
+    "question": "The number of spacecrafts that have visited Saturn is _________.",
+    "options": [
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": "4"
+  },
+  {
+    "question": "What is the approximate value of polar diameter of Saturn?",
+    "options": [
+      "108,000-109,000 km",
+      "105,000-106,000 km",
+      "112,000-113,000 km"
+    ],
+    "correct": "108,000-109,000 km"
+  },
+  {
+    "question": "Saturn’s atmosphere comprises of _____ % hydrogen and _______ % helium.",
+    "options": [
+      "78 & 21",
+      "96 & 3",
+      "88 & 7"
+    ],
+    "correct": "96 & 3"
+  },
+  {
+    "question": "Saturn orbits the Sun once every _______ Earth years.",
+    "options": [
+      "26.4",
+      "28.4",
+      "29.4"
+    ],
+    "correct": "29.4"
+  },
+  {
+    "question": "When was Saturn first recorded?",
+    "options": [
+      "8th century B.C",
+      "12th century B.C",
+      "6th century B.C"
+    ],
+    "correct": "8th century B.C"
+  },
+  {
+    "question": "What is the mass of Saturn?",
+    "options": [
+      "10^26 kg",
+      "10^24 kg",
+      "10^20 kg"
+    ],
+    "correct": "10^26 kg"
+  },
+  {
+    "question": "Saturn has _________ rings.",
+    "options": [
+      "Less than 20",
+      "Between 20 and 30",
+      "More than 30"
+    ],
+    "correct": "More than 30"
+  },
+  {
+    "question": "Saturn comprises of hydrogen, helium and ____________.",
+    "options": [
+      "Neon",
+      "Methane",
+      "Argon"
+    ],
+    "correct": "Methane"
+  },
+  {
+    "question": "The distance of the orbit of Saturn is approximately _____________.",
+    "options": [
+      "1,426,666,000 km",
+      "1,496,777,000 km",
+      "1,416,888,000 km"
+    ],
+    "correct": "1,426,666,000 km"
+  }
+]
