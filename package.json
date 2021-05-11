@@ -12,7 +12,7 @@
 		"aframe-react": "^4.4.0",
 		"firebase": "^4.12.1",
 		"history": "^4.7.2",
-		"lodash": "^4.17.10",
+		"lodash": "^4.17.21",
 		"react": "^16.3.1",
 		"react-dom": "^16.3.1",
 		"react-redux": "^5.0.7",
